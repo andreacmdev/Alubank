@@ -10,7 +10,7 @@ class Header extends StatelessWidget {
         children: <Widget>[
           Column(children: <Widget>[
             Text('\$1000.00'),
-            Text('Balanç disponível')
+            Text('Balanço disponível')
           ],), 
           Icon(Icons.account_circle),
           ]
